@@ -1,4 +1,4 @@
-package com.example.anrmaker;
+package com.isRoot.anrmaker;
 
 import android.content.Context;
 
